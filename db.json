@@ -1,0 +1,103 @@
+{
+    "totalFollowers": 23004,
+    "dashboard": [
+        {
+            "icon": "/images/icon-facebook.svg",
+            "platform": "facebook",
+            "username": "@nathanf",
+            "followers": 1987,
+            "change": "+12",
+            "changeType": "positive"
+        },
+        {
+            "icon": "/images/icon-twitter.svg",
+            "platform": "twitter",
+            "username": "@nathanf",
+            "followers": 1044,
+            "change": "+99",
+            "changeType": "positive"
+        },
+        {
+            "icon": "/images/icon-instagram.svg",
+            "platform": "instagram",
+            "username": "@realnathanf",
+            "followers": "11k",
+            "change": "+1099",
+            "changeType": "positive"
+        },
+        {
+            "icon": "/images/icon-youtube.svg",
+            "platform": "youtube",
+            "username": "Nathan F.",
+            "followers": 8239,
+            "change": "-144",
+            "changeType": "negative"
+        }
+    ],
+    "overview": [
+        {
+            "title": "Page Views",
+            "icon": "/images/icon-facebook.svg",
+            "platform": "facebook",
+            "count": 87,
+            "change": "3%",
+            "changeType": "positive"
+        },
+        {
+            "title": "Likes",
+            "icon": "/images/icon-facebook.svg",
+            "platform": "facebook",
+            "count": 52,
+            "change": "-2%",
+            "changeType": "negative"
+        },
+        {
+            "title": "Likes",
+            "icon": "/images/icon-instagram.svg",
+            "platform": "instagram",
+            "count": 5462,
+            "change": "2257%",
+            "changeType": "positive"
+        },
+        {
+            "title": "Profile Views",
+            "icon": "/images/icon-instagram.svg",
+            "platform": "instagram",
+            "count": "52k",
+            "change": "1375%",
+            "changeType": "positive"
+        },
+        {
+            "title": "Retweets",
+            "icon": "/images/icon-twitter.svg",
+            "platform": "twitter",
+            "count": 117,
+            "change": "303%",
+            "changeType": "positive"
+        },
+        {
+            "title": "Likes",
+            "icon": "/images/icon-twitter.svg",
+            "platform": "twitter",
+            "count": 507,
+            "change": "553%",
+            "changeType": "positive"
+        },
+        {
+            "title": "Likes",
+            "icon": "/images/icon-youtube.svg",
+            "platform": "youtube",
+            "count": 107,
+            "change": "-19%",
+            "changeType": "negative"
+        },
+        {
+            "title": "Total Views",
+            "icon": "/images/icon-youtube.svg",
+            "platform": "youtube",
+            "count": 1407,
+            "change": "-12%",
+            "changeType": "negative"
+        }
+    ]
+}
